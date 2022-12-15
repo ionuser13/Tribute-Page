@@ -17,3 +17,6 @@ The CSS for this project is used to style the page and make it visually appealin
 ## Conclusion
 
 Overall, this project is a simple way to honor the memory of Avicii and his impact on the music world. By using HTML and CSS, we were able to create a tribute page that is informative and easy to navigate. We hope that this page will serve as a reminder of the incredible talent and creativity of Avicii.
+
+## Contact
+You can find me on [Twitter](https://twitter.com/ionuser03)
